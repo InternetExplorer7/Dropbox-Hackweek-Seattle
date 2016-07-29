@@ -1,0 +1,24 @@
+{
+  "name": "hackweek-sf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-ocr-api": "^2.0.5",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "dropbox": "^2.0.0",
+    "express": "^4.14.0",
+    "natural": "^0.4.0",
+    "node-tesseract": "^0.2.7",
+    "random-number": "0.0.7",
+    "random-word": "^1.0.2",
+    "request": "^2.74.0",
+    "watson-developer-cloud": "^1.12.4"
+  }
+}
